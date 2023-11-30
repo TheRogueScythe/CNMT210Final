@@ -1,0 +1,73 @@
+header {
+    position: relative;
+    color: white;
+    
+    padding: 10px 0;  
+    overflow:hidden;
+    margin-left: 20px;
+}
+header h1{
+    color:white;
+    text-align: center;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+.navSection{
+    float: left;
+    background-color: #333;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    max-width: 91%;
+    width:100%;
+    overflow:hidden;
+}
+nav {
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 120px;
+    float: left;
+    margin: 0px 10px;
+    position: absolute;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 20px;
+}
+footer p{
+    padding: 10px;
+}
+.clear {
+    clear: both;
+}
+.content-box{
+    background-color: #bbbbbb;
+    border-radius: 10px;
+    min-height: 200px;
+    margin: 20px;
+}
+.content-box p{
+    padding: 10px;
+}
