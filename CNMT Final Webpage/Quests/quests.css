@@ -72,21 +72,3 @@ body {
 .clear {
     clear: both;
 }
-
-/* Page Specific CSS */ 
-p{
-    padding: 10px;
-    text-align: center;
-}
-h2{
-    padding: 10px;
-    text-align: center;
-}
-
-.content-box{
-    background-color: #bbbbbb;
-    border-radius: 10px;
-    min-height: 200px;
-    margin: 20px;
-}
-
