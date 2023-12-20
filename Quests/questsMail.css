@@ -95,6 +95,12 @@ body {
     min-height: 200px;
     margin: 20px;
 }
+.leftNav ul{
+    padding: 20px;
+}
+.leftNav ul li{
+    padding: 20px 20px 20px 5px;
+}
 
 .content{
     flex: 1;

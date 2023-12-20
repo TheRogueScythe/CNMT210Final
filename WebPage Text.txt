@@ -67,3 +67,32 @@ Survive and extract from the location
 
 
 Therapist
+Shortage	PickUp	
+Find 3 Salewa first aid kits in raid
+Hand over 3 Salewa first aid kits to Therapist
+
+Operation Aquarius - Part 1	PickUp	
+Find the water hidden inside of the dorms on Customs
+Survive and extract from the location
+
+Operation Aquarius - Part 2	Elimination	
+Eliminate 15 Scavs on Customs
+
+Sanitary Standards - Part 1	PickUp	
+Find 1 Gas analyzer in raid
+(Optional) Gain access to the locked pumping station on Factory
+Hand over the 1 Gas analyzer to Therapist
+
+Sanitary Standards - Part 2	Completion	
+Find 2 Gas analyzers in raid
+Hand over 2 Gas analyzers to Therapist
+
+Painkiller	PickUp	
+Find 4 Morphine injectors in raid
+Hand over 4 Morphine injectors to Therapist
+
+Pharmacist	PickUp	
+Obtain the case containing the device on Customs
+(Optional) Find the paramedic's car on Customs
+(Optional) Get into two-story dorm room 114 on Customs
+Hand over the case to Therapist
