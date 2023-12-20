@@ -1,0 +1,69 @@
+DM Sans --> font-family: 'DM Sans', sans-serif;
+
+Welcome to the EFT MiniGuide. The purpose of this website is to create a guide that is focused on new/ early game players. This guide has bite sized, <br>
+new player oriented guides on maps and quests as well as tips for general gameplay, settings, quests, and maps. <br>
+<br>
+While there are other guide that exist with much more detail, this website is made to be simple and to give the necissary information along with personal<br>
+and community tips. <br>
+<br>
+Tarkov is a very challenging game by design. On top of that, the developers do not hold your hand for a second when you start out. While nothing beats  <br>
+having a someone guide you through the beginning stages, many Tarkov player like myself will spend the majority of their time trying to learn the game  <br>
+on their own. This guide will hopefully be able to be there to guide you in their stead. With a goal to be community grown, the tips scattered throughout  <br>
+should be those learned from players who have been in your shoes many times before.  <br>
+<br>
+While the learning curve in Tarkov can be steep, this guide aims to smooth that curve, offering concise insights to help you navigate the complexities <br>
+of the game more easily. From understanding each map, all the early quest, or just general knowlege, this guide aims to provide you with the tools <br>
+and knowledge needed to thrive in the challenging world of Escape From Tarkov. <br>
+<br>
+Remember, Tarkov is as much about learning from your experiences as it is about surviving them. We hope this guide enhances your journey and empowers you <br>
+to emerge stronger after each raid. <br>
+<br>
+
+Maps:
+Customs  Started
+Woods  Started
+Shoreline
+Factory
+Interchange
+Lighthouse
+Reserve
+Streets of Tarkov
+
+Quests:
+Prapor
+Debut	Elimination	
+Eliminate 5 Scavs all over the Tarkov territory
+Obtain and hand over 2 MP-133 12ga shotguns
+
+Search Mission	Exploration	
+Find Prapor's missing convoy on Woods
+Locate the temporary USEC camp
+Survive and extract from the location
+
+Checking	PickUp	
+Obtain the Bronze pocket watch on Customs
+(Optional) Obtain the key to the fuel tanker truck
+Hand over the Bronze pocket watch to Prapor
+
+Shootout Picnic	Elimination	
+Eliminate 15 Scavs on Woods
+
+Delivery from the Past	PickUp	
+Obtain the secure folder in the Tarcone Director's office at the Customs terminal warehouse
+Stash the package in the Factory break room (2nd floor near Gate 3)
+Survive and extract from Factory
+
+BP Depot	Discovery	
+Mark the first fuel tank with an MS2000 Marker on Customs
+Mark the second fuel tank with an MS2000 Marker on Customs
+Mark the third fuel tank with an MS2000 Marker on Customs
+Mark the fourth fuel tank with an MS2000 Marker on Customs
+Survive and extract from the location
+
+The Bunker - Part 1	Completion	
+Find the underground bunker
+Locate the control room in the underground bunker
+Survive and extract from the location
+
+
+Therapist
